@@ -1,5 +1,11 @@
+---
+title: Website-G
+---
+
+<link rel="stylesheet" href="/PublicPages/assets/publicpages.css">
+
 # Website-G
 
-This site was just created from Fibery.
+Below is an auto-generated list of all published sections under `/pages/`:
 
-The content under `/pages/` will be published here once you run the Website Init and Section publish buttons.
+_No sections available yet._
